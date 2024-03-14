@@ -8,6 +8,9 @@ Windows
 # 联系方式
 potato：explosbot Telegram: @Explosbot888 https://t.me/explosbot888 邮箱：Explosbot@proton.me
 
+# 软件下载地址
+https://github.com/Explosbot/Hlwzs/releases
+
 # 软件截图
 ![image](https://github.com/Explosbot/Hlwzs/blob/main/img/1.png)
 ![image](https://github.com/Explosbot/Hlwzs/blob/main/img/2.png)
