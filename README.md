@@ -10,4 +10,8 @@ potato：explosbot Telegram: @Explosbot888 https://t.me/explosbot888 邮箱：Ex
 
 # 软件截图
 ![image](https://github.com/Explosbot/Hlwzs/blob/main/img/1.png)
-# 软件截图未演示版本，不代表最终效果
+![image](https://github.com/Explosbot/Hlwzs/blob/main/img/2.png)
+![image](https://github.com/Explosbot/Hlwzs/blob/main/img/3.png)
+![image](https://github.com/Explosbot/Hlwzs/blob/main/img/4.png)
+![image](https://github.com/Explosbot/Hlwzs/blob/main/img/5.png)
+# 软件截图为演示版本，不代表最终效果
