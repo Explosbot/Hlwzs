@@ -9,5 +9,5 @@ Windows
 potato：explosbot Telegram: @Explosbot888 https://t.me/explosbot888 邮箱：Explosbot@proton.me
 
 # 软件截图
-![Image text]([https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png](https://github.com/Explosbot/Hlwzs/blob/main/img/1.png)https://github.com/Explosbot/Hlwzs/blob/main/img/1.png)
+![image](https://github.com/Explosbot/Hlwzs/blob/main/img/1.png)
 # 软件截图未演示版本，不代表最终效果
